@@ -1,2 +1,92 @@
 @import "uikit.min";
 @import "mediaplayer.min";
+@import url('https://fonts.googleapis.com/css?family=Geo|Orbitron:400,500,700,900');
+
+html{
+  background:#000;
+}
+
+nav ul{
+  display:flex;
+  justify-content:flex-start;
+  list-style: none;
+  width:95%;
+  padding: 15px;  
+}
+
+nav li{
+  display: flex;
+  justify-content:flex-end;
+  margin:15px;
+}
+
+nav li a{
+  color: red;
+}
+nav a:hover{
+  color:white;
+  text-decoration:none;
+}
+
+// headline
+h1 {
+  color:red;
+  text-transform: uppercase;
+  font-family: 'Orbitron', sans-serif;
+  letter-spacing: 15px;
+  margin-top:150px;
+  text-align:center;
+}
+
+//body font
+body{
+  font-family: 'Geo', sans-serif;
+  font-size:1.25em;
+}
+
+img{
+  width:200px;
+}
+
+
+//media element 
+
+@for $i from 1 through 16 {
+  .letter span:nth-child(#{$i}n) {
+    animation-delay: 1 + $i * .06666666s
+  }
+}
+
+.letter {
+  perspective: 40vw;
+  margin: 1em 0;
+  line-height: 1em;
+  padding: 0
+}
+
+@keyframes effect {
+  20% {
+    transform: translate(0, .75em) rotateX(75deg) scale(.9) rotate(1deg);
+    color: rgba(255, 255, 255, .85);
+    text-shadow: 0 -.025em rgba(0, 0, 0, 0.2);
+  }
+  35% {
+    transform: none;
+    text-shadow: 0 1.25em 0 rgba(0, 0, 0, 0.0);
+    transform: none;
+    color: currentcolor;
+  }
+}
+
+.letter span {
+  min-width:.3em;
+  transform-origin: 50% 100%;
+  display: inline-block;
+  animation: effect 6s cubic-bezier(1, 0, 0, 1) infinite;
+  text-shadow: 0 1.5em 0 rgba(0, 0, 0, 0.015);
+}
+
+
+
+
+

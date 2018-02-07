@@ -71,3 +71,13 @@
 	};
 
 })(jQuery);
+
+$('body').removeClass('nojs').addClass('js');
+
+$(document).ready(function() {
+  $(".letter").lettering();
+  });
+
+//
+
+
