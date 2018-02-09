@@ -52,17 +52,17 @@
     <g id="skip_forward" data-name="skip forward">
       <g id="play_pause-2" data-name="play/pause">
         <g id="play-2" data-name="play">
-          <path id="Polygon-2" data-name="Polygon" d="M192,3.16l-4.33,2.16V1Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
+          <path id="Polygon-2" data-name="Polygon" d="M192,3.16l-4.33,2.16V1Z" transform="translate(0.17 -0.99)" style="fill: #ff0000"/>
         </g>
       </g>
       <g id="play_pause-3" data-name="play/pause">
         <g id="play-3" data-name="play">
-          <path id="Polygon-3" data-name="Polygon" d="M194.73,3.16,190.4,5.32V1Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
+          <path id="Polygon-3" data-name="Polygon" d="M194.73,3.16,190.4,5.32V1Z" transform="translate(0.17 -0.99)" style="fill: #ff0000"/>
         </g>
       </g>
-      <path d="M189.83,3.16a8.15,8.15,0,0,0-8.16,8.16" transform="translate(0.17 -0.99)" style="fill: none;stroke: #fff;stroke-width: 2px"/>
-      <path d="M181.68,10.83A8.15,8.15,0,0,0,189.83,19" transform="translate(0.17 -0.99)" style="fill: none;stroke: #fff;stroke-width: 2px"/>
-      <path d="M189.46,19a8.15,8.15,0,0,0,8.16-8.16" transform="translate(0.17 -0.99)" style="fill: none;stroke: #fff;stroke-width: 2px"/>
+      <path d="M189.83,3.16a8.15,8.15,0,0,0-8.16,8.16" transform="translate(0.17 -0.99)" style="fill: none;stroke: #ff0000;stroke-width: 2px"/>
+      <path d="M181.68,10.83A8.15,8.15,0,0,0,189.83,19" transform="translate(0.17 -0.99)" style="fill: none;stroke: #ff0000;stroke-width: 2px"/>
+      <path d="M189.46,19a8.15,8.15,0,0,0,8.16-8.16" transform="translate(0.17 -0.99)" style="fill: none;stroke: #ff0000;stroke-width: 2px"/>
     </g>
     <g id="skipback">
       <path d="M162.52,10.65a8.15,8.15,0,0,0,8.16,8.16" transform="translate(0.17 -0.99)" style="fill: none;stroke: #fff;stroke-width: 2px"/>
@@ -70,12 +70,12 @@
       <path d="M178.36,11a8.15,8.15,0,0,0-8.16-8.16" transform="translate(0.17 -0.99)" style="fill: none;stroke: #fff;stroke-width: 2px"/>
       <g id="play_pause-4" data-name="play/pause">
         <g id="play-4" data-name="play">
-          <path id="Polygon-4" data-name="Polygon" d="M166.42,3.16l4.32,2.16V1Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
+          <path id="Polygon-4" data-name="Polygon" d="M166.42,3.16l4.32,2.16V1Z" transform="translate(0.17 -0.99)" style="fill: #ff0000"/>
         </g>
       </g>
       <g id="play_pause-5" data-name="play/pause">
         <g id="play-5" data-name="play">
-          <path id="Polygon-5" data-name="Polygon" d="M163.7,3.16,168,5.32V1Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
+          <path id="Polygon-5" data-name="Polygon" d="M163.7,3.16,168,5.32V1Z" transform="translate(0.17 -0.99)" style="fill: #ff0000"/>
         </g>
       </g>
     </g>
@@ -101,7 +101,7 @@
       <g id="play_pause-7" data-name="play/pause">
         <g id="play-7" data-name="play">
           <g id="Polygon-7" data-name="Polygon">
-            <path d="M271.29,4.61a.72.72,0,0,1,.85-.85l5.52.77c.54.08.67.46.28.84l-5,5c-.39.39-.77.26-.84-.28Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
+            <path d="M271.29,4.61a.72.72,0,0,1,.85-.85l5.52.77c.54.08.67.46.28.84l-5,5c-.39.39-.77.26-.84-.28Z" transform="translate(0.17 -0.99)" style="fill: #ff0000"/>
           </g>
         </g>
       </g>
@@ -110,15 +110,15 @@
   <g id="big_play" data-name="big play">
     <g id="big_play_-_light" data-name="big play - light">
       <g id="Polygon-8" data-name="Polygon" style="opacity: 0.75;isolation: isolate">
-        <path d="M60.1,78a1.06,1.06,0,0,1,0,2L29.82,97.49c-1,.55-1.73.1-1.73-1v-35c0-1.1.78-1.55,1.73-1Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
+        <path d="M60.1,78a1.06,1.06,0,0,1,0,2L29.82,97.49c-1,.55-1.73.1-1.73-1v-35c0-1.1.78-1.55,1.73-1Z" transform="translate(0.17 -0.99)" style="fill: #ff0000"/>
       </g>
-      <path id="Ellipse" d="M2.33,80a37.5,37.5,0,1,1,37.5,37.5A37.5,37.5,0,0,1,2.33,80Z" transform="translate(0.17 -0.99)" style="fill: none;stroke: #fff;stroke-width: 5px;opacity: 0.75;isolation: isolate"/>
+      <path id="Ellipse" d="M2.33,80a37.5,37.5,0,1,1,37.5,37.5A37.5,37.5,0,0,1,2.33,80Z" transform="translate(0.17 -0.99)" style="fill: none;stroke: #ff0000;stroke-width: 5px;opacity: 0.75;isolation: isolate"/>
     </g>
     <g id="big_play_hover" data-name="big play hover">
       <g id="Polygon2">
-        <path d="M140.1,78a1.06,1.06,0,0,1,0,2L109.82,97.49c-1,.55-1.73.1-1.73-1v-35c0-1.1.78-1.55,1.73-1Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
+        <path d="M140.1,78a1.06,1.06,0,0,1,0,2L109.82,97.49c-1,.55-1.73.1-1.73-1v-35c0-1.1.78-1.55,1.73-1Z" transform="translate(0.17 -0.99)" style="fill: #ff0000"/>
       </g>
-      <path id="Ellipse2" d="M82.33,80a37.5,37.5,0,1,1,37.5,37.5A37.5,37.5,0,0,1,82.33,80Z" transform="translate(0.17 -0.99)" style="fill: none;stroke: #fff;stroke-width: 5px"/>
+      <path id="Ellipse2" d="M82.33,80a37.5,37.5,0,1,1,37.5,37.5A37.5,37.5,0,0,1,82.33,80Z" transform="translate(0.17 -0.99)" style="fill: none;stroke: #ff0000;stroke-width: 5px"/>
     </g>
     <g id="Loading">
       <circle cx="201.88" cy="47.13" r="8.13" style="fill: #ff0000"/>
