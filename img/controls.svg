@@ -10,8 +10,8 @@
     </g>
     <g id="pause">
       <g>
-        <rect x="23" y="1.01" width="4.2" height="16" rx="1" ry="1" style="fill: #fff"/>
-        <rect x="32.8" y="1.01" width="4.2" height="16" rx="1" ry="1" style="fill: #fff"/>
+        <rect x="23" y="1.01" width="4.2" height="16" rx="1" ry="1" style="fill: #ff0000"/>
+        <rect x="32.8" y="1.01" width="4.2" height="16" rx="1" ry="1" style="fill: #f0000"/>
       </g>
     </g>
     <g id="fullscreen">
@@ -57,7 +57,7 @@
       </g>
       <g id="play_pause-3" data-name="play/pause">
         <g id="play-3" data-name="play">
-          <path id="Polygon-3" data-name="Polygon" d="M194.73,3.16,190.4,5.32V1Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
+          <path id="Polygon-3" data-name="Polygon" d="M194.73,3.16,190.4,5.32V1Z" transform="translate(0.17 -0.99)" style="fill: #ff0000"/>
         </g>
       </g>
       <path d="M189.83,3.16a8.15,8.15,0,0,0-8.16,8.16" transform="translate(0.17 -0.99)" style="fill: none;stroke: #fff;stroke-width: 2px"/>
@@ -121,14 +121,14 @@
       <path id="Ellipse2" d="M82.33,80a37.5,37.5,0,1,1,37.5,37.5A37.5,37.5,0,0,1,82.33,80Z" transform="translate(0.17 -0.99)" style="fill: none;stroke: #fff;stroke-width: 5px"/>
     </g>
     <g id="Loading">
-      <circle cx="201.88" cy="47.13" r="8.13" style="fill: #fff"/>
-      <circle cx="233.88" cy="79.01" r="5" style="fill: #fff;opacity: 0.4"/>
-      <circle cx="201.88" cy="110.88" r="6" style="fill: #fff;opacity: 0.6000000000000001"/>
-      <circle cx="170.13" cy="79.01" r="7" style="fill: #fff;opacity: 0.8"/>
-      <circle cx="178.25" cy="56.34" r="7.5" style="fill: #fff;opacity: 0.9"/>
-      <circle cx="226.33" cy="56.09" r="4.5" style="fill: #fff;opacity: 0.30000000000000004"/>
-      <circle cx="225.75" cy="102.76" r="5.5" style="fill: #fff;opacity: 0.5"/>
-      <circle cx="178.25" cy="102.76" r="6.5" style="fill: #fff;opacity: 0.7000000000000001"/>
+      <circle cx="201.88" cy="47.13" r="8.13" style="fill: #ff0000"/>
+      <circle cx="233.88" cy="79.01" r="5" style="fill: #ff0000;opacity: 0.4"/>
+      <circle cx="201.88" cy="110.88" r="6" style="fill: #ff0000;opacity: 0.6000000000000001"/>
+      <circle cx="170.13" cy="79.01" r="7" style="fill: #ff0000;opacity: 0.8"/>
+      <circle cx="178.25" cy="56.34" r="7.5" style="fill: #ff0000;opacity: 0.9"/>
+      <circle cx="226.33" cy="56.09" r="4.5" style="fill: #ff0000;opacity: 0.30000000000000004"/>
+      <circle cx="225.75" cy="102.76" r="5.5" style="fill: #ff0000;opacity: 0.5"/>
+      <circle cx="178.25" cy="102.76" r="6.5" style="fill: #ff0000;opacity: 0.7000000000000001"/>
     </g>
   </g>
   <g id="Guides">
