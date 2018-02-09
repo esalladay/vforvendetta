@@ -16,38 +16,38 @@
     </g>
     <g id="fullscreen">
       <g id="enter">
-        <path d="M80.83,2.38a1,1,0,0,1,1-1h5.41c.55,0,.68.32.29.71l-6,6c-.39.39-.71.26-.71-.29Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-        <path d="M80.83,18.17a1,1,0,0,0,1,1h5.41c.55,0,.68-.32.29-.71l-6-6c-.39-.39-.71-.26-.71.29Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-        <path d="M98.63,2.38a1,1,0,0,0-1-1H92.21c-.55,0-.68.32-.29.71l6,6c.39.39.71.26.71-.29Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-        <path d="M98.63,18.17a1,1,0,0,1-1,1H92.21c-.55,0-.68-.32-.29-.71l6-6c.39-.39.71-.26.71.29Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
+        <path d="M80.83,2.38a1,1,0,0,1,1-1h5.41c.55,0,.68.32.29.71l-6,6c-.39.39-.71.26-.71-.29Z" transform="translate(0.17 -0.99)" style="fill: #ff0000"/>
+        <path d="M80.83,18.17a1,1,0,0,0,1,1h5.41c.55,0,.68-.32.29-.71l-6-6c-.39-.39-.71-.26-.71.29Z" transform="translate(0.17 -0.99)" style="fill: #ff0000"/>
+        <path d="M98.63,2.38a1,1,0,0,0-1-1H92.21c-.55,0-.68.32-.29.71l6,6c.39.39.71.26.71-.29Z" transform="translate(0.17 -0.99)" style="fill: #ff0000"/>
+        <path d="M98.63,18.17a1,1,0,0,1-1,1H92.21c-.55,0-.68-.32-.29-.71l6-6c.39-.39.71-.26.71.29Z" transform="translate(0.17 -0.99)" style="fill: #ff0000"/>
       </g>
     </g>
     <g id="exit">
       <g>
-        <path d="M112.53,6a1,1,0,0,0,1,1h4.1c.55,0,.68-.32.29-.71l-4.68-4.68c-.39-.39-.71-.26-.71.29Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-        <path d="M105.43,7a1,1,0,0,0,1-1V1.88c0-.55-.32-.68-.71-.29L101,6.27c-.39.39-.26.71.29.71Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-        <path d="M106.43,14.07a1,1,0,0,0-1-1h-4.1c-.55,0-.68.32-.29.71l4.68,4.68c.39.39.71.26.71-.29Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-        <path d="M113.53,13.07a1,1,0,0,0-1,1v4.1c0,.55.32.68.71.29l4.68-4.68c.39-.39.26-.71-.29-.71Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
+        <path d="M112.53,6a1,1,0,0,0,1,1h4.1c.55,0,.68-.32.29-.71l-4.68-4.68c-.39-.39-.71-.26-.71.29Z" transform="translate(0.17 -0.99)" style="fill: #ff0000"/>
+        <path d="M105.43,7a1,1,0,0,0,1-1V1.88c0-.55-.32-.68-.71-.29L101,6.27c-.39.39-.26.71.29.71Z" transform="translate(0.17 -0.99)" style="fill: #ff0000"/>
+        <path d="M106.43,14.07a1,1,0,0,0-1-1h-4.1c-.55,0-.68.32-.29.71l4.68,4.68c.39.39.71.26.71-.29Z" transform="translate(0.17 -0.99)" style="fill: #ff0000"/>
+        <path d="M113.53,13.07a1,1,0,0,0-1,1v4.1c0,.55.32.68.71.29l4.68-4.68c.39-.39.26-.71-.29-.71Z" transform="translate(0.17 -0.99)" style="fill: #ff0000"/>
       </g>
     </g>
     <g id="volume">
-      <path d="M66.8,6.77a3.51,3.51,0,0,1-1.8.6H61.85a1,1,0,0,0-1,1V14.1a1,1,0,0,0,1,1H65a6.28,6.28,0,0,1,1,0,8.5,8.5,0,0,0,.81.63l3.54,2.6c.44.33.81.14.81-.41V4.5c0-.55-.36-.73-.8-.4Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
+      <path d="M66.8,6.77a3.51,3.51,0,0,1-1.8.6H61.85a1,1,0,0,0-1,1V14.1a1,1,0,0,0,1,1H65a6.28,6.28,0,0,1,1,0,8.5,8.5,0,0,0,.81.63l3.54,2.6c.44.33.81.14.81-.41V4.5c0-.55-.36-.73-.8-.4Z" transform="translate(0.17 -0.99)" style="fill: #ff0000"/>
       <g id="volume-2" data-name="volume">
         <g id="soundbars">
-          <path d="M73.72,3.5s3.95-.81,3.87,7.73S73.72,19,73.72,19" transform="translate(0.17 -0.99)" style="fill: none;stroke: #fff;stroke-linecap: round;stroke-width: 1.5px"/>
-          <path d="M72.43,7.38S75.06,7,75,11.23s-2.58,3.86-2.58,3.86" transform="translate(0.17 -0.99)" style="fill: none;stroke: #fff;stroke-linecap: round;stroke-width: 1.5px"/>
+          <path d="M73.72,3.5s3.95-.81,3.87,7.73S73.72,19,73.72,19" transform="translate(0.17 -0.99)" style="fill: none;stroke: #ff0000;stroke-linecap: round;stroke-width: 1.5px"/>
+          <path d="M72.43,7.38S75.06,7,75,11.23s-2.58,3.86-2.58,3.86" transform="translate(0.17 -0.99)" style="fill: none;stroke: #ff0000;stroke-linecap: round;stroke-width: 1.5px"/>
         </g>
       </g>
     </g>
     <g id="closed_captions" data-name="closed captions">
-      <path d="M128.53,9.58c-6.17-4.21-6.46,7.77,0,3.92" transform="translate(0.17 -0.99)" style="fill: none;stroke: #fff"/>
-      <path d="M135.06,9.58c-6.17-4.21-6.46,7.77,0,3.92" transform="translate(0.17 -0.99)" style="fill: none;stroke: #fff"/>
-      <path d="M122,4.35h15.69V17.43H122ZM120.68,3V18.73H139V3Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
+      <path d="M128.53,9.58c-6.17-4.21-6.46,7.77,0,3.92" transform="translate(0.17 -0.99)" style="fill: none;stroke: #ff0000"/>
+      <path d="M135.06,9.58c-6.17-4.21-6.46,7.77,0,3.92" transform="translate(0.17 -0.99)" style="fill: none;stroke: #ff0000"/>
+      <path d="M122,4.35h15.69V17.43H122ZM120.68,3V18.73H139V3Z" transform="translate(0.17 -0.99)" style="fill: #ff0000"/>
     </g>
     <g id="muted">
       <path d="M46.8,6.77a3.51,3.51,0,0,1-1.8.6H41.85a1,1,0,0,0-1,1V14.1a1,1,0,0,0,1,1H45a6.28,6.28,0,0,1,1,0,8.5,8.5,0,0,0,.81.63l3.54,2.6c.44.33.81.14.81-.41V4.5c0-.55-.36-.73-.8-.4Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
-      <line x1="52.83" y1="6.98" x2="58.22" y2="12.36" style="fill: none;stroke: #fff;stroke-linecap: round;stroke-width: 2px"/>
-      <line x1="52.83" y1="12.36" x2="58.22" y2="6.98" style="fill: none;stroke: #fff;stroke-linecap: round;stroke-width: 2px"/>
+      <line x1="52.83" y1="6.98" x2="58.22" y2="12.36" style="fill: none;stroke: #ff0000;stroke-linecap: round;stroke-width: 2px"/>
+      <line x1="52.83" y1="12.36" x2="58.22" y2="6.98" style="fill: none;stroke: #ff0000;stroke-linecap: round;stroke-width: 2px"/>
     </g>
     <g id="skip_forward" data-name="skip forward">
       <g id="play_pause-2" data-name="play/pause">
@@ -65,9 +65,9 @@
       <path d="M189.46,19a8.15,8.15,0,0,0,8.16-8.16" transform="translate(0.17 -0.99)" style="fill: none;stroke: #ff0000;stroke-width: 2px"/>
     </g>
     <g id="skipback">
-      <path d="M162.52,10.65a8.15,8.15,0,0,0,8.16,8.16" transform="translate(0.17 -0.99)" style="fill: none;stroke: #fff;stroke-width: 2px"/>
-      <path d="M170.2,18.8a8.15,8.15,0,0,0,8.16-8.16" transform="translate(0.17 -0.99)" style="fill: none;stroke: #fff;stroke-width: 2px"/>
-      <path d="M178.36,11a8.15,8.15,0,0,0-8.16-8.16" transform="translate(0.17 -0.99)" style="fill: none;stroke: #fff;stroke-width: 2px"/>
+      <path d="M162.52,10.65a8.15,8.15,0,0,0,8.16,8.16" transform="translate(0.17 -0.99)" style="fill: none;stroke: #ff0000;stroke-width: 2px"/>
+      <path d="M170.2,18.8a8.15,8.15,0,0,0,8.16-8.16" transform="translate(0.17 -0.99)" style="fill: none;stroke: #ff0000;stroke-width: 2px"/>
+      <path d="M178.36,11a8.15,8.15,0,0,0-8.16-8.16" transform="translate(0.17 -0.99)" style="fill: none;stroke: #ff0000;stroke-width: 2px"/>
       <g id="play_pause-4" data-name="play/pause">
         <g id="play-4" data-name="play">
           <path id="Polygon-4" data-name="Polygon" d="M166.42,3.16l4.32,2.16V1Z" transform="translate(0.17 -0.99)" style="fill: #ff0000"/>
@@ -91,13 +91,13 @@
       <g id="play_pause-6" data-name="play/pause">
         <g id="play-6" data-name="play">
           <g id="Polygon-6" data-name="Polygon">
-            <path d="M251.13,4.36a.72.72,0,0,1,.85-.85l5.52.77c.54.08.67.46.28.84l-5,5c-.39.39-.77.26-.84-.28Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
+            <path d="M251.13,4.36a.72.72,0,0,1,.85-.85l5.52.77c.54.08.67.46.28.84l-5,5c-.39.39-.77.26-.84-.28Z" transform="translate(0.17 -0.99)" style="fill: #ff0000"/>
           </g>
         </g>
       </g>
     </g>
     <g id="loop_off" data-name="loop off" style="opacity: 0.5">
-      <path d="M274.21,7.77a5.72,5.72,0,1,1-8.7-.27l-1.62-1.62a8,8,0,1,0,11.94.26Z" transform="translate(0.17 -0.99)" style="fill: #fff"/>
+      <path d="M274.21,7.77a5.72,5.72,0,1,1-8.7-.27l-1.62-1.62a8,8,0,1,0,11.94.26Z" transform="translate(0.17 -0.99)" style="fill: #ff0000"/>
       <g id="play_pause-7" data-name="play/pause">
         <g id="play-7" data-name="play">
           <g id="Polygon-7" data-name="Polygon">
