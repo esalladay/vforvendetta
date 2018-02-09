@@ -50,7 +50,7 @@ img{
 }
 
 
-//media element 
+//media element, credit goes to Andy Fitzsimon
 
 @for $i from 1 through 16 {
   .letter span:nth-child(#{$i}n) {
