@@ -10480,7 +10480,7 @@ iframe.uk-cover {
 }
 
 .mejs__time {
-  color: #fff;
+  color: #f00;
   display: block;
   height: 24px;
   width: auto;
@@ -10564,7 +10564,7 @@ iframe.uk-cover {
 }
 
 .mejs__time-current {
-  background: rgba(255, 255, 255, 0.9);
+  background: rgba(236, 8, 8, 0.9);
   width: 0;
 }
 
